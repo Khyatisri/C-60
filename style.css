@@ -1,0 +1,31 @@
+body{
+text-align: center;    
+}
+.line{
+height: 6px;
+ width: 70px;
+margin: 8px auto;
+}
+#apps{
+width:100%;
+background-color: darkviolet;    
+}
+#Games{
+width:100%;
+background-color: coral;
+}
+img{
+height:300px;
+transition:transform .2s;    
+}
+img:hover{
+transform:scale(.9);    
+}
+#chatbot{
+ width:100%;
+background-color:deepskyblue;
+}
+h1{
+color:azure;
+font-variant:small-caps;
+}
